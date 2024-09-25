@@ -1,0 +1,24 @@
+
+body{
+    background-color: rgb(254, 254, 254);
+}
+
+.profile{
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.profileimage {
+    width: 200px;
+}
+
+.profile h2{
+
+}
+
+.profile h5{
+    transform: translateY(-10px);
+}
